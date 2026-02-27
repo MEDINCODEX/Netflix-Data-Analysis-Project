@@ -154,4 +154,5 @@ It showcases the ability to transform raw datasets into actionable business insi
 
 👨‍💻 Author
 
-Created by [Your Name]"# Netflix-Data-Analysis-Project" 
+Created by [MARRA MOHAMED]
+"# Netflix-Data-Analysis-Project" 
